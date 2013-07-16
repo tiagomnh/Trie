@@ -9,7 +9,8 @@ Trie implementation in Java.
 ### API
 
 ```java
-Trie<Integer> trie = new Trie<Integer>(); // stuff
+Trie<Integer> trie = new Trie<Integer>(); // creates instance
+
 trie.add("uno", 1); // uno = 1
 trie.add("dos", 2); // dos = 2
 
